@@ -25,8 +25,8 @@ my first project with frontend mentor building a qr code.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joedev-web/mentor_qr_page.git)
-- Live Site URL: [Add live site URL here](https://joedev-web.github.io/mentor_qr_page/)
+- Solution URL: [ coding](https://github.com/joedev-web/mentor_qr_page.git)
+- Live Site URL: [site](https://joedev-web.github.io/mentor_qr_page/)
 
 ## My process
 worked with the initail index page created create a synmatic i can work  with use the div to contain the html when it was structured proceed to using interal css on my html page to style the project to the preview picture i made good use of flexbox css to help center my qr code and used the margin and padding for content sepration all this was done in single page css was on the upper part of the index page html followed after
@@ -64,8 +64,8 @@ on future projects i will work better with css flexbox and learn bootstrap to he
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@joedev-web)
-- Twitter - [@yourusername](https://www.twitter.com/@joseDgeek11)
+- Frontend Mentor - [profile](https://www.frontendmentor.io/profile/@joedev-web)
+- Twitter - [account](https://www.twitter.com/@joseDgeek11)
 
 ## Acknowledgments
 
